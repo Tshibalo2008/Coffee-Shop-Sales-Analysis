@@ -2,6 +2,6 @@
 Bright Coffee Shop
 
 # Tools used
-Snowflake SQL for exploratory data analysis, data processing, and manipulation
+Snowflake SQL for Exploratory Data Analysis, Data Processing, and Manipulation
 #
-Microsoft Excel for data visualisation
+Microsoft Excel for Data visualisation
