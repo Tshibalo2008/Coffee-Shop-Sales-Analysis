@@ -59,7 +59,15 @@ SELECT MAX(transaction_time) AS close_time
 FROM brightcoffee.sales.data;
 
 --Filtering with month
-SELECT MONTHNAME(transaction_date) AS MONTH
+SELECT MONTHNAME(transaction_date) AS month
+FROM brightcoffee.sales.data;
+
+--Filtering with MONTH And YEAR
+SELECT TO_CHAR(transaction_date, 'MON YYYY') AS month_year
+FROM brightcoffee.sales.data;
+
+--Filtering with DAYNAME
+SELECT DAYNAME(transaction_date) AS day_name
 FROM brightcoffee.sales.data;
 
 --Final query to extract data for analysis
@@ -67,7 +75,8 @@ SELECT product_category,
        SUM(transaction_qty*unit_price) AS revenue,
        SUM(transaction_qty) AS total_quantity,
        AVG(unit_price) AS avg_unit_price,
-       MONTHNAME(transaction_date) AS MONTH,
+       MONTHNAME(transaction_date) AS Month,
+       DAYNAME(transaction_date) AS day_name,
        store_location,
        transaction_date,
        transaction_time,
