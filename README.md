@@ -14,3 +14,5 @@ Bright Coffee Sales Analysis Worksheet.zip which contains Visuals for story tell
 Bright Coffee Shop_Visuals.pdf which contains Charts in pdf format
 
 Case Study Snowflake code.sql which contains full SQL code generated in Snowflake
+
+Bright Coffee Shop_Analysis_Presentation.zip  which is a presentation in PowerPoint
