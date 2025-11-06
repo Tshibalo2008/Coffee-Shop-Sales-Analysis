@@ -1,5 +1,4 @@
-# Coffee-Shop-Sales-Analysis
-Bright Coffee Shop
+# Bright Coffee-Shop-Sales-Analysis
 
 # Introduction
 This analysis is based on the Bright Coffee Shop Sales dataset, which records daily transactions from the coffee shop.
