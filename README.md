@@ -37,9 +37,11 @@ Morning Dominates Daily Sales:
 
 The morning period (6 AM – 11:59 AM) generates the highest revenue across all stores. This aligns with customer habits of purchasing coffee and breakfast items before or during work hours.
 
-Afternoon and Evening Declines:Sales drop noticeably after midday, suggesting fewer customer visits or smaller purchase volumes later in the day. The night hours contribute minimally to total revenue.
+Afternoon and Evening Declines: Sales drop noticeably after midday, suggesting fewer customer visits or smaller purchase volumes later in the day. The night hours contribute minimally to total revenue.
 
-# Business Implication
+# 
+Business Implication
+
 Focus marketing and staffing efforts during morning hours and peak months (May–June) to maximize efficiency. Consider promotions or menu adjustments to boost sales during afternoons and evenings
 
 #
