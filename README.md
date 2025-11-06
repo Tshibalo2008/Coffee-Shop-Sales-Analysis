@@ -82,7 +82,7 @@ The business could optimize staffing and inventory around morning peaks and expl
 Insights on Product Sales
 
 #
-4. Total Revenue by Product Category vs Revenue by Product Category and Store
+1. Total Revenue by Product Category vs Revenue by Product Category and Store
 
 #
 Coffee and Tea dominate total sales
@@ -108,7 +108,7 @@ Focus marketing and promotions on Coffee and Tea to maintain strength
 Explore ways to boost sales in lower-performing categories through bundling, sampling, or limited-time offers
 
 #
-5. Revenue by Day of Week
+1. Revenue by Day of Week
 
 # 
 Key findings or Insights
@@ -134,7 +134,7 @@ The business could maintain weekday staffing and inventory levels, while conside
 Alternatively, weekend promotions (e.g., family combos, brunch specials, or loyalty discounts) could help stimulate demand
 
 #
-6. Total Revenue vs Quantity Sold
+1. Total Revenue vs Quantity Sold
 
 #
 Key findings or Insights
