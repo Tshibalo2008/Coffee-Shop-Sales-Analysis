@@ -18,7 +18,9 @@ Marketing Strategy Analysis
 Revenue by Store Distribution
 #
 Revenue Analysis by Store
-# Key findings or Insights
+# 
+Key findings or Insights
+
 Hell’s Kitchen contributes the largest share of total revenue at 34%
 
 Astoria and Lower Manhattan generate nearly equal revenue shares, showing balanced performance
