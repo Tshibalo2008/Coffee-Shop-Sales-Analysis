@@ -10,7 +10,9 @@ The goal of this analysis is to deliver a clear and comprehensive view of Bright
 
 # Focus
 Product Performance
+
 Store Performance
+
 Marketing Strategy Analysis
 
 # Tools used
