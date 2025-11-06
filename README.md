@@ -79,10 +79,10 @@ Operational insight
 The business could optimize staffing and inventory around morning peaks and explore promotions or delivery options to boost afternoon and evening performance
 
 # 
-Insights on Product Sales
+2. Insights on Product Sales
 
 #
-2. Total Revenue by Product Category vs Revenue by Product Category and Store
+2.1. Total Revenue by Product Category vs Revenue by Product Category and Store
 
 #
 Coffee and Tea dominate total sales
