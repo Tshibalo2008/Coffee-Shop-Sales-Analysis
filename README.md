@@ -17,7 +17,7 @@ Marketing Strategy Analysis
 # Analysis Breakdown
 Revenue by Store Distribution
 #
-Revenue Analysis by Store
+1. Revenue Analysis by Store
 # 
 Key findings or Insights
 
@@ -28,9 +28,11 @@ Astoria and Lower Manhattan generate nearly equal revenue shares, showing balanc
 Overall, revenue distribution across stores is consistent, suggesting stable sales patterns across all locations
 
 #
-Store Revenue by Month vs Store Revenue by Time of Day
+2. Store Revenue by Month vs Store Revenue by Time of Day
 
 #
+Key findings or Insights
+
 Steady Monthly Growth:
 
 Revenue shows a consistent upward trend from January through June, with June being the highest-earning month. This indicates increasing customer engagement and possibly seasonal growth in coffee consumption
@@ -47,7 +49,10 @@ Business Implication
 Focus marketing and staffing efforts during morning hours and peak months (May–June) to maximize efficiency. Consider promotions or menu adjustments to boost sales during afternoons and evenings
 
 #
-Store Revenue by Time of Day vs Hourly Revenue Trend Across Store Locations
+3. Store Revenue by Time of Day vs Hourly Revenue Trend Across Store Locations
+
+#
+Key findings or Insights
 
 #
 Morning dominates revenue generation
@@ -77,7 +82,7 @@ The business could optimize staffing and inventory around morning peaks and expl
 Insights on Product Sales
 
 #
-Total Revenue by Product Category vs Revenue by Product Category and Store
+4. Total Revenue by Product Category vs Revenue by Product Category and Store
 
 #
 Coffee and Tea dominate total sales
@@ -103,7 +108,10 @@ Focus marketing and promotions on Coffee and Tea to maintain strength
 Explore ways to boost sales in lower-performing categories through bundling, sampling, or limited-time offers
 
 #
-Revenue by Day of Week
+5. Revenue by Day of Week
+
+# 
+Key findings or Insights
 
 #
 Weekday sales are strong and consistent
@@ -126,7 +134,10 @@ The business could maintain weekday staffing and inventory levels, while conside
 Alternatively, weekend promotions (e.g., family combos, brunch specials, or loyalty discounts) could help stimulate demand
 
 #
-Total Revenue vs Quantity Sold
+6. Total Revenue vs Quantity Sold
+
+#
+Key findings or Insights
 
 #
 May and June recorded the highest sales and quantities sold, with June leading overall performance
@@ -138,14 +149,14 @@ Overall, revenue and sales volumes remained stable across the six-month period, 
 # Conclusions and Recommendations For Bright Coffee Shop
 
 #
-Focus on Peak Months
+1. Focus on Peak Months
 
 May and June show the highest sales — leverage this by launching seasonal winter promotions (e.g., “Winter Warmers” coffee and tea specials)
 
 Consider stocking up on coffee and tea supplies ahead of winter to meet higher demand
 
 #
-Enhance Morning Operations
+2. Enhance Morning Operations
 
 The morning period generates the most revenue across all stores
 
@@ -154,7 +165,7 @@ Improve morning service efficiency, staffing, and product availability to maximi
 Introduce breakfast combos or loyalty rewards for early customers
 
 #
-Optimize Store Performance
+3. Optimize Store Performance
 
 #
 Hell’s Kitchen leads slightly in total revenue, but Astoria and Lower Manhattan show comparable performance
@@ -164,7 +175,7 @@ Use best practices from the top-performing store (e.g., promotions, layout, cust
 Explore localised marketing to attract nearby office workers and commuters.
 
 #
-Expand High-Performing Product Lines
+4. Expand High-Performing Product Lines
 
 #
 Coffee and Tea contribute over 65% of total revenue, prioritize them in marketing campaigns and seasonal menus
@@ -174,13 +185,13 @@ Upsell bakery items and drinking chocolate, which have solid secondary performan
 Evaluate low-performing products (e.g., packaged chocolate, loose tea) for menu optimisation or bundling opportunities
 
 #
-Maintain Weekday Consistency
+5. Maintain Weekday Consistency
 
 #
 Revenue remains stable across weekdays, with a slight dip on weekends
 
 #
-Data-Driven Growth
+6. Data-Driven Growth
 
 #
 Continue tracking hourly and daily sales trends to fine-tune staffing, inventory, and promotions
