@@ -15,9 +15,9 @@ Store Performance
 Marketing Strategy Analysis
 
 # Analysis Breakdown
-Revenue by Store Distribution
+1. Revenue by Store Distribution
 #
-1. Revenue Analysis by Store
+1.1. Revenue Analysis by Store
 # 
 Key findings or Insights
 
@@ -28,7 +28,7 @@ Astoria and Lower Manhattan generate nearly equal revenue shares, showing balanc
 Overall, revenue distribution across stores is consistent, suggesting stable sales patterns across all locations
 
 #
-2. Store Revenue by Month vs Store Revenue by Time of Day
+1.2. Store Revenue by Month vs Store Revenue by Time of Day
 
 #
 Key findings or Insights
@@ -49,7 +49,7 @@ Business Implication
 Focus marketing and staffing efforts during morning hours and peak months (May–June) to maximize efficiency. Consider promotions or menu adjustments to boost sales during afternoons and evenings
 
 #
-3. Store Revenue by Time of Day vs Hourly Revenue Trend Across Store Locations
+1.3. Store Revenue by Time of Day vs Hourly Revenue Trend Across Store Locations
 
 #
 Key findings or Insights
@@ -82,7 +82,7 @@ The business could optimize staffing and inventory around morning peaks and expl
 Insights on Product Sales
 
 #
-1. Total Revenue by Product Category vs Revenue by Product Category and Store
+2. Total Revenue by Product Category vs Revenue by Product Category and Store
 
 #
 Coffee and Tea dominate total sales
@@ -108,7 +108,7 @@ Focus marketing and promotions on Coffee and Tea to maintain strength
 Explore ways to boost sales in lower-performing categories through bundling, sampling, or limited-time offers
 
 #
-1. Revenue by Day of Week
+3. Revenue by Day of Week
 
 # 
 Key findings or Insights
@@ -134,7 +134,7 @@ The business could maintain weekday staffing and inventory levels, while conside
 Alternatively, weekend promotions (e.g., family combos, brunch specials, or loyalty discounts) could help stimulate demand
 
 #
-1. Total Revenue vs Quantity Sold
+4. Total Revenue vs Quantity Sold
 
 #
 Key findings or Insights
